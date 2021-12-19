@@ -1,2 +1,2 @@
 # Tyson
-TYSON - A Reverse Shell scripted in PHP
+*TYSON - A Multi-Client Reverse Shell scripted in PHP*
