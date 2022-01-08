@@ -5,9 +5,8 @@
 		</td>
 	</tr>
 	<tr>
-
-# Tyson
-*TYSON - A Multi-Client Reverse Shell scripted in PHP*
+<p align="center">
+TYSON - A Multi-Client Reverse Shell scripted in PHP
     
 ## License
 > Copyright © 2021 WiiZARDD
